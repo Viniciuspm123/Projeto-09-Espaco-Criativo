@@ -20,7 +20,3 @@ O objetivo é criar um layout moderno e responsivo, fácil de navegar e visualme
 - CSS3 (arquivo externo `style.css`)
 - Google Fonts (Inter)
 - JavaScript (para funcionalidades futuras e formulários)
-
----
-
-## Estrutura de arquivos
